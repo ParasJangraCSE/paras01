@@ -1,4 +1,4 @@
 # paras01
 This is my first GIT repository.
 <br>
-Author - Paras Jangra
+Author - Paras Jangra(Nims)
